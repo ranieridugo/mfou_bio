@@ -12,7 +12,7 @@ f_namedvec_to_df <- function(vec){
   )
 }
 
-for(lag in c(- 1, 1, 2, 3)){
+for(lag in c(- 1, 0, 1, 2, 3)){
   iLMax = 5 + lag; vLAdd = c(10, 15) + lag
   
   f_iteration = 
