@@ -1,9 +1,7 @@
 Supporting material to the paper:
 
 Neural integrator and orchestrator communities shape spontaneous signaling in the human brain
-
 Lorenzo Pini, Ranieri Dugo, Paolo Pigato, Maurizio Corbetta
-
 bioRxiv 2026.02.04.703687; doi: https://doi.org/10.64898/2026.02.04.703687
 
 The scripts contain the original code used in the statistical analysis. 
