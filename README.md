@@ -18,4 +18,4 @@ The analysis pipeline involves importing data and calling functions within the c
 
 Note that the data folders contain only a few cases from the Human Connectome Project due to storage limitations on GitHub.
 
-The code cannot be run directly and requires adjustments, particularly with respect to directory paths, before execution.
+The code cannot be run directly and requires adjustments, particularly with respect to directory paths, dependencies, and processing units, before execution.
